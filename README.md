@@ -74,7 +74,7 @@ Proje, kritik iş mantığı için Birim Testleri (Unit Tests) içerir. Bunları
 
 | Giriş Ekranı | Video Seçimi | Final Sonuç |
 | :---: | :---: | :---: |
-| ![Ekran 1](screenshots/screen1.png) | ![Ekran 2](screenshots/screen2.png) | ![Ekran 3](screenshots/screen3.png) |
+| ![Ekran 1](screenshots/screen1.jpeg) | ![Ekran 2](screenshots/screen2.jpeg) | ![Ekran 3](screenshots/screen3.jpeg) |
 
 ---
 Geliştiren: [Servet Erdoğan](https://github.com/ServetErdogan09)
