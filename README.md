@@ -72,7 +72,7 @@ Proje, kritik iş mantığı için Birim Testleri (Unit Tests) içerir. Bunları
 
 ## 📸 Ekran Görüntüleri
 
-| Giriş Ekranı | Video Seçimi | Final Sonuç |
+| Giriş Ekranı | Video Seçimi | Giriş Ekranı2 Sonuç |
 | :---: | :---: | :---: |
 | ![Ekran 1](screenshots/screen1.jpeg) | ![Ekran 2](screenshots/screen2.jpeg) | ![Ekran 3](screenshots/screen3.jpeg) |
 
